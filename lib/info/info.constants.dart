@@ -1,0 +1,1 @@
+const DEFAULT_INFO_MESSAGE = 'Esse é um aplicativo de testes, mas com recursos funcionais. O intuito é aplicar na prática os conhecimentos adquiridos nos estudos de Flutter. Obrigado por usar o app!';
